@@ -1,3 +1,5 @@
+/* Create by Mukesh Mandal */
+
 document.addEventListener('DOMContentLoaded', function () {
     const chatMessages = document.getElementById('chat-messages');
     const recordButton = document.getElementById('record-button');
